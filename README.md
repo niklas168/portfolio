@@ -1,4 +1,4 @@
-# Universität Leipzig 
+# Master-Student an der Universität Leipzig 
 ### Bildungsweg
 - Gymnasium Engelsdorf
 - IBA Leipzig
