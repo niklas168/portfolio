@@ -10,7 +10,7 @@
     - M.Sc. Wirtschaftsinformatik
     - voraussichtlicher Abschluss 2025   
 
-### BerufsErfahrung
+### Berufserfahrung
 - Dualer Student bei den Leipziger Verkehrsbetrieben
     - Im Rahmen des Studiums an der IBA
 - Dualer Student im InterCity Hotel Leipzig
