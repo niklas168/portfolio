@@ -28,11 +28,3 @@
 ### [Projekt(Sammlung) 4: SQL-Kenntnisse](https://github.com/niklas168/MLU/tree/main/Datenbanken)
 - Im Rahmen des Moduls "Einführung in Datenbanken" war jede Woche ein Übungsblatt selbstständig zu bearbeiten
 - Die relevanten Übungsblätter und deren Umsetzungen sind in dem verlinkten Repository vorhanden
-
-
-- Googles Crash Course on Machine Learning
-    - grundlegende Machine Learning Konzepte anhand TenserFlow
-- Erlernen grundlegender Programmierkenntnisse im Rahmen von Harvards Computer Science Zertifikat
-    - Inhalte: Programmieren mit C und Python, SQL, HTML und CSS
-- Weiterbildung Datenanalyse - Kenntnisse
-    - Inhalte: R, SQL, Excel, Tableau 
