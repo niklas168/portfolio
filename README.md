@@ -1,5 +1,5 @@
 # Master-Student an der Universität Leipzig 
-### Bildungsweg
+## Bildungsweg
 - Gymnasium Engelsdorf
 - IBA Leipzig
     - Abschluss B.A. Betriebswirtschaftslehre
@@ -10,13 +10,10 @@
     - M.Sc. Wirtschaftsinformatik
     - voraussichtlicher Abschluss 2025   
 
-### Berufserfahrung
-- Dualer Student bei den Leipziger Verkehrsbetrieben
-    - Im Rahmen des Studiums an der IBA
-- Dualer Student im InterCity Hotel Leipzig
-    - Im Rahmen des Studiums an der IBA
+## Projekte
+# [Projekt 1: erstes Machine-Learning-Modell mit Scikit-Learn](https://github.com/niklas168/ML_projects/tree/main/titanic_spaceship)
 
-### weitere Erfahrungen
+## weitere Erfahrungen
 - technische Kenntnisse aus dem Informatik Studium
     - Datenbanken: SQL und Datenbankmodellierung
     - Data Science: Wahrscheinlichkeitstehorie, Bayessche Statistik, Inferenzverfahren
