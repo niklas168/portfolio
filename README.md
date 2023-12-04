@@ -22,8 +22,10 @@
 - Auch dieses Projekt wächst mit neu gewonnenem Wissenstand und verbessert sich kontinuierlich
 
 ### [Projekt 3: Fußballspieler Marktwertvorhersage](https://github.com/niklas168/ML_projects/tree/main/football_player_valuations)
-- Im Rahmen des Moduls "Datenstrukturen und effiziente Algorithmen" war jede Woche ein Übungsblatt selbstständig zu bearbeiten
-- Die Übungsblätter mit Implementierungssaufgaben sind in diesem Repository vorhanden
+- Dieses Projekt fokussiert sich insbesondere auf die Prozesse vor der Entwicklung von ML Algorithmen, also der Datenextrahierung aus verschiedenen Quellen
+- Hier wurden Statistiken von Fußballspielern der letzten 6 Saison aus per Web Scraping gewonnen
+- zusätzlich wurden diese durch Marktwerte eines Datasets von Kaggle ergänzt
+- nach zahlreichen Zwischenschritten ist das Ergebnis eine CSV Datei, welche nun für Data Science / ML Projekte genutzt werden kann 
 
 ### [Projekt(Sammlung) 4: SQL- und Datenstrukturenkenntnisse](https://github.com/niklas168/MLU)
 - Im Rahmen des Moduls "Einführung in Datenbanken" war jede Woche ein Übungsblatt selbstständig zu bearbeiten
