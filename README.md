@@ -21,10 +21,13 @@
 - Hier sollen möglichst gute Vorhersagen für künftige Umsätze getroffen werden
 - Auch dieses Projekt wächst mit neu gewonnenem Wissenstand und verbessert sich kontinuierlich
 
-### [Projekt(Sammlung) 3: Implementation verschiedener Datenstrukturen und Algorithmen](https://github.com/niklas168/MLU/tree/main/DatAlgo)
+### [Projekt 3: Fußballspieler Marktwertvorhersage](https://github.com/niklas168/ML_projects/tree/main/football_player_valuations)
 - Im Rahmen des Moduls "Datenstrukturen und effiziente Algorithmen" war jede Woche ein Übungsblatt selbstständig zu bearbeiten
 - Die Übungsblätter mit Implementierungssaufgaben sind in diesem Repository vorhanden
 
-### [Projekt(Sammlung) 4: SQL-Kenntnisse](https://github.com/niklas168/MLU/tree/main/Datenbanken)
+### [Projekt(Sammlung) 4: SQL- und Datenstrukturenkenntnisse](https://github.com/niklas168/MLU)
 - Im Rahmen des Moduls "Einführung in Datenbanken" war jede Woche ein Übungsblatt selbstständig zu bearbeiten
 - Die relevanten Übungsblätter und deren Umsetzungen sind in dem verlinkten Repository vorhanden
+- Im Rahmen des Moduls "Datenstrukturen und effiziente Algorithmen" war jede Woche ein Übungsblatt selbstständig zu bearbeiten
+- Die Übungsblätter mit Implementierungssaufgaben sind in diesem Repository vorhanden
+
