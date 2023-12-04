@@ -17,7 +17,7 @@
 - Das beste Ergebnis ist bis lang eine Genauigkeit von 83%, Verbesserungen werden kontinuierlich implementiert
 
 ### [Projekt 2: Machine Learning Modell zur Voraussage von Store Sales ](https://github.com/niklas168/ML_projects/tree/main/ML_Store_Sales)
-- Dieses [Dataset](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) ist ebenfalls von KAggle bereitgestellt und besteht aus 6 Tabellen
+- Dieses [Dataset](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) ist ebenfalls von Kaggle bereitgestellt und besteht aus 6 Tabellen
 - Hier sollen möglichst gute Vorhersagen für künftige Umsätze getroffen werden
 - Auch dieses Projekt wächst mit neu gewonnenem Wissenstand und verbessert sich kontinuierlich
 
