@@ -27,7 +27,13 @@
 - zusätzlich wurden diese durch Marktwerte eines Datasets von Kaggle ergänzt
 - nach zahlreichen Zwischenschritten ist das Ergebnis eine CSV Datei, welche nun für Data Science / ML Projekte genutzt werden kann 
 
-### [Projekt(Sammlung) 4: SQL- und Datenstrukturenkenntnisse](https://github.com/niklas168/MLU)
+### [Projekt 4: Automatisierung der Wocheneinkaufslisten](https://github.com/niklas168/automate-groceries)
+- In diesem Projekt habe ich versucht eine nervige Aufgabe des Alltags zu erleichtern: Einkaufen!
+- Dafür habe ich ein kleines Frontend gebaut in dem ich Alle meine Lieblingsrezepte sehen kann und mir nur noch die raussuchen muss, die ich diese Woche essen möchte.
+- Die nötigen Zutaten dafür werden dann automatisch in meine Einkaufslisten App geschrieben. Natürlich können auch neue Rezepte über di ui hinzugefügt oder entfernt werden
+- Sowohl Backend als auch Frontend sind in Python implementiert und laufen auf meinem Home Server, sodass ich die Applikation auch noch auf den letzten Drücker über VPN vom Kauflandparkplatz aus ansprechen kann
+  
+### [Projekt(Sammlung) 5: SQL- und Datenstrukturenkenntnisse](https://github.com/niklas168/MLU)
 - Im Rahmen des Moduls "Einführung in Datenbanken" war jede Woche ein Übungsblatt selbstständig zu bearbeiten
 - Die relevanten Übungsblätter und deren Umsetzungen sind in dem verlinkten Repository vorhanden
 - Im Rahmen des Moduls "Datenstrukturen und effiziente Algorithmen" war jede Woche ein Übungsblatt selbstständig zu bearbeiten
